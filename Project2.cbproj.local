@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.294,=C:\Users\user\Desktop\КвКсоСредним\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=C:\Users\user\Desktop\КвКсоСредним\rgg.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,C:\Users\user\Desktop\КвКсоСредним\Unit1.cpp=C:\Users\user\Desktop\КвКсоСредним\MyThread.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\user\Documents\RAD Studio\Projects\Unit3.cpp=C:\Users\user\Desktop\КвКсоСредним\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,=C:\Users\user\Documents\RAD Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\user\Documents\RAD Studio\Projects\Unit3.h=C:\Users\user\Desktop\КвКсоСредним\Unit3.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.210,C:\Users\user\Documents\RAD Studio\Projects\Project2PCH1.h=C:\Users\user\Desktop\КвКсоСредним\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.076,C:\Users\user\Documents\RAD Studio\Projects\Unit3.dfm=C:\Users\user\Desktop\КвКсоСредним\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,=C:\Users\user\Documents\RAD Studio\Projects\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,C:\Users\user\Documents\RAD Studio\Projects\Project2.cbproj=C:\Users\user\Desktop\КвКсоСредним\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,C:\Users\user\Desktop\КвКсоСредним\Unit1.h=C:\Users\user\Desktop\КвКсоСредним\MyThread.h</Transaction>
+  </Transactions>
+</BorlandProject>
